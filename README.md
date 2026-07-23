@@ -94,7 +94,6 @@ This project strengthened my understanding of:
 ├── 📄 Dashboard.pdf
 ├── 📄 Executive_Summary.pdf
 
-\
 ```
 
 ⭐ About the Project
