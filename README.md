@@ -89,16 +89,12 @@ This project strengthened my understanding of:
 📦 Swiggy-Business-Intelligence-Dashboard
 │
 ├── 📄 README.md
-├── 📊 Swiggy_Business_Intelligence_Dashboard.xlsx
+├── 📊 Swiggy Business Dashboard.xlsx
+├── 📊 Swiggy Business Analytics Raw Dataset.xlsx
 ├── 📄 Dashboard.pdf
 ├── 📄 Executive_Summary.pdf
-│
-├── 📂 Dataset
-│   └── Swiggy_Business_Analytics_Dataset.xlsx
-│
-└── 📂 Images
-    ├── Dashboard.png
-    └── Executive_Summary.png
+
+\
 ```
 
 ⭐ About the Project
